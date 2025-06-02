@@ -1,1 +1,1 @@
-# DLinear-stock-prices-prediction
+# Stock return model by DLinear
